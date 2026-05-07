@@ -1,2 +1,3 @@
-# webstudio-soho-beauty-club-1ba7eff7
-Web Studio landing for SoHo Beauty Club
+# Welcome to your Lovable project
+
+TODO: Document your project here
